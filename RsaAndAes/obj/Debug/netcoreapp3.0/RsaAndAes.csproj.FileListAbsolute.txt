@@ -1,0 +1,10 @@
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.exe
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.deps.json
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.runtimeconfig.json
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.runtimeconfig.dev.json
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.dll
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\RsaAndAes.pdb
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.AssemblyInfoInputs.cache
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.AssemblyInfo.cs
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.dll
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.pdb

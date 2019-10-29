@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj": {}
+    "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj": {
+    "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj",
+        "projectUniqueName": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj",
         "projectName": "RsaAndAes",
-        "projectPath": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj",
+        "projectPath": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes.csproj",
         "packagesPath": "C:\\Users\\hechao\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\RsaAndAes\\obj\\",
+        "outputPath": "E:\\GitHub\\RsaAndAes\\RsaAndAes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hechao\\AppData\\Roaming\\NuGet\\NuGet.Config",
