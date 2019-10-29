@@ -5,15 +5,6 @@ using System.Text;
 
 namespace RsaAndAes
 {
-    public class Utils
-    {
-        public static string ByteArrayToHexString(sbyte[] ba)
-        {
-            // return BitConverter.ToString(ba).Replace("-", "");
-            return "";
-        }
-    }
-
     public class AesUtils
     {
         static byte[] IV = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
@@ -72,8 +63,6 @@ namespace RsaAndAes
                 }
             }
 
-
-
             // Return the encrypted bytes from the memory stream. 
             return encrypted;
 
@@ -116,8 +105,6 @@ namespace RsaAndAes
                 }
             }
 
-
-
             // Return the encrypted bytes from the memory stream. 
             return encrypted;
 
@@ -156,18 +143,13 @@ namespace RsaAndAes
                 {
                     using (StreamReader srDecrypt = new StreamReader(csDecrypt))
                     {
-
                         // Read the decrypted bytes from the decrypting stream 
                         // and place them in a string.
                         plaintext = srDecrypt.ReadToEnd();
                     }
                 }
             }
-
-
-
             return plaintext;
-
         }
     }
 }
