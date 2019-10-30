@@ -8,3 +8,6 @@ E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.AssemblyInfoInpu
 E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.AssemblyInfo.cs
 E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.dll
 E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.pdb
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.csprojAssemblyReference.cache
+E:\GitHub\RsaAndAes\RsaAndAes\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+E:\GitHub\RsaAndAes\RsaAndAes\obj\Debug\netcoreapp3.0\RsaAndAes.csproj.CopyComplete
