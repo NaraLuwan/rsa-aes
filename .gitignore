@@ -140,3 +140,5 @@ out
 gen
 /.vs/RsaAndAes/v16/Server/sqlite3/storage.ide-shm
 /.vs/RsaAndAes/v16/Server/sqlite3/storage.ide-wal
+/.idea/
+/.vs/
